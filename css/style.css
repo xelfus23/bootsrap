@@ -12201,9 +12201,7 @@ body {
   .btn-primary {
     width: 50% !important;
   }
-}
-@media (max-width: 320px) {
   #home {
-    margin-bottom: 10%;
+    margin-bottom: 30%;
   }
 }/*# sourceMappingURL=style.css.map */

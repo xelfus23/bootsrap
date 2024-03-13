@@ -261,13 +261,18 @@ body{
 @media (max-width: 425px){
   .btn-primary{
     width: 50% !important;
+
+  }
+  #home{
+    margin-bottom: 30%;
   }
 }
 @media (max-width: 375px){
 
 }
 @media (max-width: 320px){
-  #home{
-    margin-bottom: 10%;
-  }
+
 }
+
+
+
